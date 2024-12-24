@@ -1,28 +1,26 @@
-La Madison Real Estate Agency
+<h1>La Madison Real Estate Agency</h1>
 
 La Madison Real Estate Agency is a modern web application designed to simplify the process of finding and listing real estate properties. With its user-friendly interface and robust backend integrations, it provides a seamless experience for users seeking to buy, sell, or rent properties.
 
-Features
+<h2>Features</h2>
 
-Property Listings: View detailed listings of properties with images, descriptions, and prices.
+<h4>Search Functionality:</h4> Search for properties based on location
 
-Search Functionality: Search for properties based on location, price range, and other filters.
+<h4>Responsive Design:</h4> Optimized for desktops, tablets, and mobile devices.
 
-Responsive Design: Optimized for desktops, tablets, and mobile devices.
+<h4>API Integration:</h4> Fetch and display real-time property data from external APIs.
 
-API Integration: Fetch and display real-time property data from external APIs.
+<h4>Contact Form:</h4> Easy-to-use form for inquiries about properties or services.
 
-Contact Form: Easy-to-use form for inquiries about properties or services.
+<h2>Technologies Used</h2>
 
-Technologies Used
+<h4>JavaScript:</h4> For dynamic content and interactivity.
 
-JavaScript: For dynamic content and interactivity.
+<h4>HTML:</h4> Structure and layout of the web pages.
 
-HTML: Structure and layout of the web pages.
+<h4>Tailwind CSS:</h4> Styling for a sleek and modern design.
 
-Tailwind CSS: Styling for a sleek and modern design.
-
-Installation and Setup
+<h2>Installation and Setup</h2>
 
 Clone the repository:
 
@@ -32,7 +30,7 @@ Navigate to the project directory:
 
 cd la-madison-real-estate
 
-Install dependencies:
+<h2>Install dependencies:</h2>
 
 npm install
 
@@ -42,7 +40,7 @@ npm run dev
 
 Open your browser and navigate to http://localhost:3000 to view the application.
 
-Usage
+<h2>Usage</h2>
 
 Browse available properties and explore detailed information.
 
@@ -50,7 +48,7 @@ Use the search functionality to find properties matching your criteria.
 
 Submit inquiries through the contact form for more information.
 
-Future Plans
+<h2>Future Plans</h2>
 
 Add user authentication for secure access to features like saving favorite properties.
 
